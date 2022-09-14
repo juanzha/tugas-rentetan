@@ -14,7 +14,7 @@ print(type(tinggi),"/n",tinggi)
 
 #list
 print(10*"=")
-hewan = ["anj","babi","ica"]
+hewan = ["kucing","ayam","kelinci"]
 print(hewan[2])
 print(10*"=")
 
